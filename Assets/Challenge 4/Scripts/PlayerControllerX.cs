@@ -15,7 +15,7 @@ public class PlayerControllerX : MonoBehaviour
     private float normalStrength = 10; // how hard to hit enemy without powerup
     private float powerupStrength = 25; // how hard to hit enemy with powerup
     public ParticleSystem Smoke_Particle;
-
+    
 
 
     void Start()
